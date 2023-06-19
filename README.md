@@ -18,3 +18,10 @@ step 5: wait for  few minuites too see the ip adresses that are live in network
 
 The "netdiscover" tool is used to scan a local network and discover devices connected to it. It sends ARP (Address Resolution Protocol) requests to the network, and based on the responses received, it can identify active hosts along with their IP and MAC addresses.
 
+# Option File
+
+file option is used to exit the tool from running
+
+# Option Help 
+
+Help option is to display the developer info and contact info.
